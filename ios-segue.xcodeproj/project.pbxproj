@@ -12,6 +12,7 @@
 		B5F4DF92223A2F76003401AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5F4DF90223A2F76003401AE /* Main.storyboard */; };
 		B5F4DF94223A2F77003401AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B5F4DF93223A2F77003401AE /* Assets.xcassets */; };
 		B5F4DF97223A2F77003401AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B5F4DF95223A2F77003401AE /* LaunchScreen.storyboard */; };
+		B5F4DF9F223A3089003401AE /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B5F4DF9E223A3089003401AE /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		B5F4DF93223A2F77003401AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B5F4DF96223A2F77003401AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B5F4DF98223A2F77003401AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B5F4DF9E223A3089003401AE /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				B5F4DF8C223A2F76003401AE /* AppDelegate.swift */,
 				B5F4DF8E223A2F76003401AE /* ViewController.swift */,
 				B5F4DF90223A2F76003401AE /* Main.storyboard */,
+				B5F4DF9E223A3089003401AE /* SecondViewController.swift */,
 				B5F4DF93223A2F77003401AE /* Assets.xcassets */,
 				B5F4DF95223A2F77003401AE /* LaunchScreen.storyboard */,
 				B5F4DF98223A2F77003401AE /* Info.plist */,
@@ -135,6 +138,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B5F4DF9F223A3089003401AE /* SecondViewController.swift in Sources */,
 				B5F4DF8F223A2F76003401AE /* ViewController.swift in Sources */,
 				B5F4DF8D223A2F76003401AE /* AppDelegate.swift in Sources */,
 			);
